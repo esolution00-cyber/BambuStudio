@@ -44,7 +44,7 @@ protected:
     wxRadioButton* m_fine_radioBox;
     TextInput *    flow_ratio_input;
     wxPanel*       input_panel;
-    float m_flow_ratio_value;
+    
     CalibrationPresetPage* m_stage_panel_parent;
 };
 
